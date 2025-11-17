@@ -1,4 +1,4 @@
 # learning_github
 this is my first git repository
 <br>
-Author - Akash More
+Author - Akash Sanjay More
